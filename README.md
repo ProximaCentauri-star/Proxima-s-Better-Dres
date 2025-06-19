@@ -1,4 +1,5 @@
-# Proxima-s-Better-Dres
+![image](https://github.com/user-attachments/assets/bf30e856-85d3-44c0-b071-46c0999b4230)
+
 Official GitHub page for the KSP mod Proxima's Better Dres
 
 This is a small and simple mod, It replaces the Stock Dres by a new one inspired by KSP 2's Dres. Has more exaggerated mountains and canyons and a set of small, yet beautiful rings! Features 8k textures !
