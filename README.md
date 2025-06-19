@@ -15,4 +15,4 @@ Supports :
 Installation: 
 - Simply put the BetterDres folder inside of your GameData !
 
-[ForumPage](https://forum.kerbalspaceprogram.com/topic/228146-112x-proximas-better-dres-v10/#comment-4467641)
+[Forum Page](https://forum.kerbalspaceprogram.com/topic/228146-112x-proximas-better-dres-v10/#comment-4467641)
