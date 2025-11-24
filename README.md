@@ -7,6 +7,7 @@ This is a small and simple mod, It replaces the Stock Dres by a new one inspired
 Dependencies :
 
 - Kopernicus (and its dependencies)
+- Niako's Utilities
 
 Supports : 
 - Parallax Continued
